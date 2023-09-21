@@ -1,6 +1,5 @@
+1. A novel method to detect cyber-attacks in IoT/IIoT devices on the modbus protocol using deep learning
+- SpringerLink - Published: 04 June 2023 - https://link.springer.com/article/10.1007/s10586-023-04028-4
 
-i
-
-
-hello`:wq
-`
+2. Process execution in Cyber-Physical Systems using cloud and Cyber-Physical Internet services
+-  Published: 17 May 2018 - https://link.springer.com/article/10.1007/s11227-018-2416-4

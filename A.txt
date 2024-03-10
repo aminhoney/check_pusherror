@@ -1,5 +1,40 @@
-1. A novel method to detect cyber-attacks in IoT/IIoT devices on the modbus protocol using deep learning
-- SpringerLink - Published: 04 June 2023 - https://link.springer.com/article/10.1007/s10586-023-04028-4
-
-2. Process execution in Cyber-Physical Systems using cloud and Cyber-Physical Internet services
--  Published: 17 May 2018 - https://link.springer.com/article/10.1007/s11227-018-2416-4
+Lab Tasks Ethical hackers or pen testers use numerous tools and techniques to collect information about the target.
+Recommended labs that will assist you in learning various footprinting techniques include:
+1. Perform footprinting through search engines o Gather information using advanced Google hacking techniques
+o Gather information from video search engines
+o Gather information from FTP search engines
+o Gather information from IoT search engines
+2. Perform footprinting through web services
+o Find the company’s domains and sub-domains using Netcraft
+o Gather personal information using PeekYou online people search service
+o Gather an email list using theHarvester
+o Gather information using deep and dark web searching
+o Determine target OS through passive footprinting
+3. Perform footprinting through social networking sites
+o Gather employees’ information from LinkedIn using theHarvester
+o Gather personal information from various social networking sites using Sherlock
+4. Perform website footprinting
+o Gather information about a target website using ping command line utility
+o Gather information about a target website using Photon
+o Gather information about a target website using Central Ops
+o Extract a company’s data using Web Data Extractor
+o Mirror a target website using HTTrack Web Site Copier
+o Gather information about a target website using GRecon
+o Gather a wordlist from the target website using CeWL
+5. Perform email footprinting
+o Gather information about a target by tracing emails using eMailTracker
+Pro 6. Perform Whois footprinting
+o Perform Whois lookup using DomainTools
+7. Perform DNS footprinting
+o Gather DNS information using nslookup command line utility and online tool
+o Perform reverse DNS lookup using reverse IP domain check and DNSRecon
+o Gather information of subdomain and DNS records using SecurityTrails
+8. Perform network footprinting o Locate the network range
+o Perform network traceroute in Windows and Linux Machines
+9. Perform footprinting using various footprinting tools
+o Footprinting a target using Recon-ng
+o Footprinting a target using Maltego
+o Footprinting a target using OSRFramework
+o Footprinting a target using FOCA
+o Footprinting a target using BillCipher
+o Footprinting a target using OSINT Framework

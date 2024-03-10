@@ -1,0 +1,20 @@
+1. Perform host discovery
+o Perform host discovery using Nmap
+o Perform host discovery using Angry IP Scanner
+2. Perform port and service discovery
+o Perform port and service discovery using MegaPing
+o Perform port and service discovery using NetScanTools Pro
+o Perform port scanning using sx tool
+o Explore various network scanning techniques using Nmap
+o Explore various network scanning techniques using Hping3
+3. Perform OS discovery
+o Identify the target system’s OS with Time-to-Live (TTL) and TCP window sizes using
+Wireshark
+o Perform OS discovery using Nmap Script Engine (NSE)
+o Perform OS discovery using Unicornscan
+4. Scan beyond IDS and Firewall
+o Scan beyond IDS/firewall using various evasion techniques
+o Create custom packets using Colasoft Packet Builder to scan beyond the IDS/firewall
+o Create custom UDP and TCP packets using Hping3 to scan beyond the IDS/firewall
+5. Perform network scanning using various scanning tools
+o Scan a target network using Metasploit
